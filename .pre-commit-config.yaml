@@ -1,0 +1,14 @@
+repos:
+  - repo: https://github.com/charliermarsh/ruff-pre-commit
+    rev: v0.3.3  # Use the latest Ruff version
+    hooks:
+      - id: ruff
+        files: \.(py|ipynb)$  # This tells Ruff to check .py and .ipynb files
+      - id: ruff-format
+        files: \.(py|ipynb)$  # Same here, make sure Ruff can format these files
+
+  - repo: https://github.com/psf/black
+    rev: 24.3.0  # Use the latest Black version
+    hooks:
+      - id: black
+        files: \.(py|ipynb)$  # This tells Black to check .py and .ipynb files
