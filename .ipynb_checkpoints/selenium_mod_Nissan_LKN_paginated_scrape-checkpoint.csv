@@ -1,0 +1,60 @@
+Condition_Year,Make_Model,Price,Vin
+Pre-Owned 2014,Nissan Sentra S,"$7,969",VIN: 3N1AB7APXEY202668
+Pre-Owned 2013,Nissan Rogue SL,"$13,519",VIN: JN8AS5MV4DW654606
+Pre-Owned 2020,Nissan Rogue S,"$14,310",VIN: 5N1AT2MT4LC722985
+Pre-Owned 2019,Nissan Rogue SV,"$14,358",VIN: JN8AT2MT4KW253659
+Pre-Owned 2020,Nissan Rogue SV,"$15,994",VIN: 5N1AT2MT5LC784248
+Certified Pre-Owned 2020,Nissan Kicks SV,"$17,774",VIN: 3N1CP5CV1LL556986
+Pre-Owned 2020,Nissan Pathfinder SV,"$17,826",VIN: 5N1DR2BMXLC609906
+Pre-Owned 2018,Nissan Murano Platinum,"$17,856",VIN: 5N1AZ2MG5JN144656
+Certified Pre-Owned 2024,Nissan Versa S,"$17,868",VIN: 3N1CN8DV4RL872736
+Certified Pre-Owned 2024,Nissan Versa S,"$18,282",VIN: 3N1CN8DV0RL857134
+Pre-Owned 2018,Nissan Murano SL,"$19,982",VIN: 5N1AZ2MH4JN119241
+Certified Pre-Owned 2024,Nissan Kicks SV,"$20,975",VIN: 3N1CP5CV7RL546469
+Certified Pre-Owned 2024,Nissan Sentra SV,"$20,975",VIN: 3N1AB8CV5RY283778
+Certified Pre-Owned 2022,Nissan Sentra SR,"$20,991",VIN: 3N1AB8DV9NY305449
+Certified Pre-Owned 2023,Nissan Kicks SV,"$21,822",VIN: 3N1CP5CV8PL555517
+Certified Pre-Owned 2023,Nissan Kicks SV,"$21,828",VIN: 3N1CP5CV2PL520097
+Certified Pre-Owned 2022,Nissan Altima 2.5 SV,"$21,896",VIN: 1N4BL4DV9NN341037
+Certified Pre-Owned 2022,Nissan Sentra SR,"$22,624",VIN: 3N1AB8DVXNY231507
+Certified Pre-Owned 2021,Nissan Rogue SV,"$23,877",VIN: 5N1AT3BAXMC734132
+Certified Pre-Owned 2021,Nissan Rogue Platinum,"$23,971",VIN: JN8BT3DC0MW425103
+Certified Pre-Owned 2023,Nissan Altima 2.0 SR,"$23,992",VIN: 1N4AL4CV4PN311881
+Certified Pre-Owned 2022,Nissan Rogue SV,"$24,992",VIN: 5N1BT3BA6NC724767
+Certified Pre-Owned 2022,Nissan Pathfinder SV,"$25,664",VIN: 5N1DR3BAXNC233948
+Certified Pre-Owned 2023,Nissan Maxima SV,"$25,742",VIN: 1N4AA6CV9PC510860
+Certified Pre-Owned 2022,Nissan Frontier SV,"$28,680",VIN: 1N6ED1EK5NN603110
+Certified Pre-Owned 2023,Nissan Pathfinder SV,"$28,974",VIN: 5N1DR3BB4PC218275
+Pre-Owned 2019,Nissan Titan XD SV,"$31,992",VIN: 1N6BA1F49KN506662
+Certified Pre-Owned 2024,Nissan ARIYA PLATINUM+,"$33,099",VIN: JN1DF0CD5RM732437
+Certified Pre-Owned 2023,Nissan Armada SL,"$34,722",VIN: JN8AY2BA7P9402316
+Certified Pre-Owned 2024,Nissan Frontier PRO-X,"$34,972",VIN: 1N6ED1EJ3RN662329
+Certified Pre-Owned 2023,Nissan Armada SL,"$35,914",VIN: JN8AY2BD0P9691968
+Certified Pre-Owned 2022,Nissan Frontier PRO-4X,"$35,977",VIN: 1N6ED1EK2NN641538
+Pre-Owned 2022,Nissan Pathfinder Platinum,"$35,978",VIN: 5N1DR3DK8NC273502
+Certified Pre-Owned 2022,Nissan Pathfinder Platinum,"$36,933",VIN: 5N1DR3DJ2NC270635
+Certified Pre-Owned 2024,Nissan Pathfinder SL,"$37,982",VIN: 5N1DR3CB2RC215912
+Pre-Owned 2013,Honda Fit Sport,"$9,209",VIN: JHMGE8H56DC002322
+Pre-Owned 2015,INFINITI QX60 Base,"$10,568",VIN: 5N1AL0MN0FC550500
+Pre-Owned 2013,Toyota Avalon XLE,"$11,472",VIN: 4T1BK1EB6DU004972
+Pre-Owned 2015,Jeep Grand Cherokee Laredo,"$12,824",VIN: 1C4RJFAG2FC704274
+Pre-Owned 2014,Lincoln MKT EcoBoost,"$12,993",VIN: 2LMHJ5AT9EBL57530
+Pre-Owned 2019,Buick Encore Preferred,"$13,981",VIN: KL4CJASB9KB929796
+Pre-Owned 2020,Chevrolet Trax LT,"$14,250",VIN: 3GNCJLSB8LL198402
+Pre-Owned 2011,Chevrolet Camaro 1LT,"$14,894",VIN: 2G1FB3DD3B9202349
+Pre-Owned 2016,Toyota RAV4 SE,"$17,870",VIN: 2T3JFREV8GW496621
+Pre-Owned 2017,Land Rover Discovery First Edition,"$18,779",VIN: SALRTBBV7HA014852
+Pre-Owned 2017,Jeep Wrangler Unlimited Sport,"$20,816",VIN: 1C4BJWDG2HL618320
+Pre-Owned 2018,Land Rover Discovery HSE Luxury,"$20,882",VIN: SALRT2RK9JA053315
+Pre-Owned 2016,Jeep Wrangler Unlimited Sahara,"$21,846",VIN: 1C4BJWEG0GL119156
+Pre-Owned 2023,Hyundai Santa Fe SEL,"$21,920",VIN: 5NMS34AJ1PH530549
+Pre-Owned 2022,Hyundai Santa Fe SEL,"$22,569",VIN: 5NMS2DAJ3NH446622
+Pre-Owned 2023,Ford Escape Platinum,"$26,522",VIN: 1FMCU9JA9PUB47526
+Pre-Owned 2021,Jeep Grand Cherokee L Limited,"$26,608",VIN: 1C4RJKBG2M8113756
+Pre-Owned 2021,Toyota Highlander LE,"$29,763",VIN: 5TDBZRBH0MS530641
+Pre-Owned 2023,Ford F-150 XLT,"$29,978",VIN: 1FTEW1C85PKD35720
+Pre-Owned 2020,Cadillac CT5 Premium Luxury,"$30,942",VIN: 1G6DT5RW4L0118461
+Pre-Owned 2019,Ram 1500 Laramie,"$31,496",VIN: 1C6SRFRT5KN725766
+Pre-Owned 2022,Toyota Highlander Platinum,"$41,822",VIN: 5TDFZRBHXNS256688
+Pre-Owned 2011,Volvo XC90 I6,,VIN: YV4952CY2B1587351
+Pre-Owned 2020,Kia Sorento S V6,,VIN: 5XYPG4A57LG652706
